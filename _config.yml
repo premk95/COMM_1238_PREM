@@ -1,7 +1,8 @@
 title: COMM_1238_PREM
+theme: jekyll-theme-dinky
+
 #theme: jekyll-theme-architect
-#theme: jekyll-theme-architect
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 #theme: jekyll-theme-dinky
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-leap-day
